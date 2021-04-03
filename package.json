@@ -1,0 +1,12 @@
+{
+  "name": "local-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "local-http": "./index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
